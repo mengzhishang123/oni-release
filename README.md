@@ -19,7 +19,7 @@
 
 当前建议优先下载最新版本安装包，例如：
 
-- `oni-database-v0.1.2-x64-zh-CN.msi`
+- `oni-database-v0.1.3-x64-zh-CN.msi`
 
 ## 安装提示
 
