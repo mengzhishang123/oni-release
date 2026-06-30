@@ -19,7 +19,7 @@
 
 当前建议优先下载最新版本安装包，例如：
 
-- `oni-database-v0.1.4-x64-zh-CN.msi`
+- `oni-database-v0.1.5-x64-zh-CN.msi`
 
 ## 安装提示
 
@@ -29,4 +29,4 @@
 
 ## 校验信息
 
-如有提供 `SHA256SUMS.txt`，可对照 Release 附件中的哈希文件校验安装包完整性。
+Release 附件中的 `oni-database-v0.1.5-sha256.txt` 可用于校验安装包完整性。
