@@ -17,29 +17,30 @@
 
 ## 当前版本
 
-当前建议下载 0.1.5 版本对应平台的安装包：
+当前建议下载 0.1.7 版本对应平台的安装包：
 
 Windows：
 
-- `oni-database-v0.1.5-x64-zh-CN.msi`
+- `oni-database-v0.1.7-x64-zh-CN.msi`
 
 Linux：
 
-- `oni-database-v0.1.5-linux-x86_64.AppImage`
-- `oni-database-v0.1.5-linux-amd64.deb`
-- `oni-database-v0.1.5-linux-x86_64.rpm`
+- `oni-database-v0.1.7-linux-x86_64.AppImage`
+- `oni-database-v0.1.7-linux-amd64.deb`
+- `oni-database-v0.1.7-linux-x86_64.rpm`
 
 校验文件：
 
-- `oni-database-v0.1.5-sha256.txt`
-- `oni-database-v0.1.5-linux-sha256.txt`
+- `oni-database-v0.1.7-sha256.txt`
+- `oni-database-v0.1.7-linux-sha256.txt`
 
 ## 安装提示
 
 - Windows 安装完成后可从开始菜单或桌面快捷方式启动
 - Windows 安装器不会自动下载 WebView2 运行时；如果目标电脑缺少 WebView2，程序可能无法正常启动
 - Linux 用户可优先尝试 AppImage；Debian / Ubuntu 系可使用 `.deb`，Fedora / RHEL 系可使用 `.rpm`
+- macOS 版本目前仅在 CI 中构建，尚未在真实 macOS 设备上完成验证，因此暂不提供正式下载
 
 ## 校验信息
 
-Release 附件中的 `oni-database-v0.1.5-sha256.txt` 与 `oni-database-v0.1.5-linux-sha256.txt` 可用于校验对应平台安装包的完整性。
+Release 附件中的 `oni-database-v0.1.7-sha256.txt` 与 `oni-database-v0.1.7-linux-sha256.txt` 可用于校验对应平台安装包的完整性。
