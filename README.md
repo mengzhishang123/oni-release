@@ -17,22 +17,22 @@
 
 ## 当前版本
 
-当前建议下载 0.1.9 版本对应平台的安装包：
+当前建议下载 0.1.10 版本对应平台的安装包：
 
 Windows：
 
-- `oni-database-v0.1.9-x64-zh-CN.msi`
+- `oni-database-v0.1.10-x64-zh-CN.msi`
 
 Linux：
 
-- `oni-database-v0.1.9-linux-x86_64.AppImage`
-- `oni-database-v0.1.9-linux-amd64.deb`
-- `oni-database-v0.1.9-linux-x86_64.rpm`
+- `oni-database-v0.1.10-linux-x86_64.AppImage`
+- `oni-database-v0.1.10-linux-amd64.deb`
+- `oni-database-v0.1.10-linux-x86_64.rpm`
 
 校验文件：
 
-- `oni-database-v0.1.9-sha256.txt`
-- `oni-database-v0.1.9-linux-sha256.txt`
+- `oni-database-v0.1.10-sha256.txt`
+- `oni-database-v0.1.10-linux-sha256.txt`
 
 ## 安装提示
 
@@ -45,4 +45,4 @@ Linux：
 
 ## 校验信息
 
-Release 附件中的 `oni-database-v0.1.9-sha256.txt` 与 `oni-database-v0.1.9-linux-sha256.txt` 可用于校验对应平台安装包的完整性。
+Release 附件中的 `oni-database-v0.1.10-sha256.txt` 与 `oni-database-v0.1.10-linux-sha256.txt` 可用于校验对应平台安装包的完整性。
